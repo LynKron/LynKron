@@ -24,7 +24,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,java,python,vue,git,docker,linux,vscode&perline=9" alt="Languages and tools">
 </p>
 
-## 🔥 Featured Projects
+## 🔥 Personal Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
@@ -38,6 +38,25 @@
 - [Articles](https://github.com/LynKron/Articles) — 算法与 C# 学习资料及示例代码（Fork）
 - [jQuery-MD5](https://github.com/LynKron/jQuery-MD5) — 可独立使用或配合 jQuery 的 JavaScript MD5 插件（Fork）
 - [lotus-ops](https://github.com/LynKron/lotus-ops) — Lotus 运维脚本仓库（Fork）
+
+## 🏢 Organization Projects
+
+我所在组织中的部分公开项目：
+
+| Organization / Project | Description | Stack |
+| --- | --- | --- |
+| [win-studio/processLens](https://github.com/win-studio/processLens) | Windows 10/11 桌面任务管理器，支持资源、端口和进程树监控 | JavaScript |
+| [EntySquare/openmask](https://github.com/EntySquare/openmask) | OpenMask 相关项目 | Go |
+| [EntySquare/enty-storage-proofs-core](https://github.com/EntySquare/enty-storage-proofs-core) | R1CS 与 PoST 证明核心实现 | Rust |
+| [EntySquare/p2p-copier](https://github.com/EntySquare/p2p-copier) | 用于快速同步的点对点文件复制工具 | Go |
+| [EntySquare/payment-sdk-go](https://github.com/EntySquare/payment-sdk-go) | 面向自定义支付场景的 Go SDK | Go |
+| [EntySquare/video-processor](https://github.com/EntySquare/video-processor) | 视频处理项目 | Python |
+
+浏览全部：[EntySquare repositories](https://github.com/orgs/EntySquare/repositories) · [win-studio repositories](https://github.com/orgs/win-studio/repositories)
+
+### Organizations
+
+[EntySquare](https://github.com/EntySquare) · [utility-labs](https://github.com/utility-labs) · [mall-center-store](https://github.com/mall-center-store) · [TGAI-BOT](https://github.com/TGAI-BOT) · [onlylynkron](https://github.com/onlylynkron) · [win-studio](https://github.com/win-studio)
 
 ## 📊 GitHub Stats
 
