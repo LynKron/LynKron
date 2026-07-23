@@ -26,18 +26,11 @@
 
 ## 🔥 Latest Projects
 
-按最近代码推送时间排序，已排除 Fork、归档仓库和个人主页仓库。
-
 | Project | Organization | Stack | Last push |
 | --- | --- | --- | --- |
 | [processLens](https://github.com/win-studio/processLens) | [win-studio](https://github.com/win-studio) | JavaScript | 2026-07-19 |
-| [openmask](https://github.com/EntySquare/openmask) | [EntySquare](https://github.com/EntySquare) | Go | 2026-04-08 |
-| [ma-website](https://github.com/EntySquare/ma-website) | [EntySquare](https://github.com/EntySquare) | JavaScript | 2026-03-04 |
-| [movieWeb](https://github.com/EntySquare/movieWeb) | [EntySquare](https://github.com/EntySquare) | Vue | 2025-09-22 |
-| [pumpking-izumi](https://github.com/EntySquare/pumpking-izumi) | [EntySquare](https://github.com/EntySquare) | Solidity | 2025-07-26 |
-| [AIE_admin](https://github.com/EntySquare/AIE_admin) | [EntySquare](https://github.com/EntySquare) | Vue | 2025-07-03 |
 
-浏览全部：[EntySquare repositories](https://github.com/orgs/EntySquare/repositories) · [win-studio repositories](https://github.com/orgs/win-studio/repositories)
+浏览全部：[win-studio repositories](https://github.com/orgs/win-studio/repositories)
 
 ### Organizations
 
