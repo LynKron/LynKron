@@ -24,33 +24,18 @@
   <img src="https://skillicons.dev/icons?i=ts,js,java,python,vue,git,docker,linux,vscode&perline=9" alt="Languages and tools">
 </p>
 
-## 🔥 Personal Projects
+## 🔥 Latest Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [chatgpt-next-web-pro](https://github.com/LynKron/chatgpt-next-web-pro) | 跨平台 AI 对话应用，支持多种模型与私有化部署 | TypeScript |
-| [test_uiauto](https://github.com/LynKron/test_uiauto) | UI 自动化测试与实践仓库 | Automation |
-| [ChatGPT_Next_Web](https://github.com/LynKron/ChatGPT_Next_Web) | ChatGPT Web 应用项目仓库 | AI / Web |
-| [ChatGPTNextWeb](https://github.com/LynKron/ChatGPTNextWeb) | ChatGPT Web 相关项目仓库 | AI / Web |
+按最近代码推送时间排序，已排除 Fork、归档仓库和个人主页仓库。
 
-## 📚 More Public Repositories
-
-- [Articles](https://github.com/LynKron/Articles) — 算法与 C# 学习资料及示例代码（Fork）
-- [jQuery-MD5](https://github.com/LynKron/jQuery-MD5) — 可独立使用或配合 jQuery 的 JavaScript MD5 插件（Fork）
-- [lotus-ops](https://github.com/LynKron/lotus-ops) — Lotus 运维脚本仓库（Fork）
-
-## 🏢 Organization Projects
-
-我所在组织中的部分公开项目：
-
-| Organization / Project | Description | Stack |
-| --- | --- | --- |
-| [win-studio/processLens](https://github.com/win-studio/processLens) | Windows 10/11 桌面任务管理器，支持资源、端口和进程树监控 | JavaScript |
-| [EntySquare/openmask](https://github.com/EntySquare/openmask) | OpenMask 相关项目 | Go |
-| [EntySquare/enty-storage-proofs-core](https://github.com/EntySquare/enty-storage-proofs-core) | R1CS 与 PoST 证明核心实现 | Rust |
-| [EntySquare/p2p-copier](https://github.com/EntySquare/p2p-copier) | 用于快速同步的点对点文件复制工具 | Go |
-| [EntySquare/payment-sdk-go](https://github.com/EntySquare/payment-sdk-go) | 面向自定义支付场景的 Go SDK | Go |
-| [EntySquare/video-processor](https://github.com/EntySquare/video-processor) | 视频处理项目 | Python |
+| Project | Organization | Stack | Last push |
+| --- | --- | --- | --- |
+| [processLens](https://github.com/win-studio/processLens) | [win-studio](https://github.com/win-studio) | JavaScript | 2026-07-19 |
+| [openmask](https://github.com/EntySquare/openmask) | [EntySquare](https://github.com/EntySquare) | Go | 2026-04-08 |
+| [ma-website](https://github.com/EntySquare/ma-website) | [EntySquare](https://github.com/EntySquare) | JavaScript | 2026-03-04 |
+| [movieWeb](https://github.com/EntySquare/movieWeb) | [EntySquare](https://github.com/EntySquare) | Vue | 2025-09-22 |
+| [pumpking-izumi](https://github.com/EntySquare/pumpking-izumi) | [EntySquare](https://github.com/EntySquare) | Solidity | 2025-07-26 |
+| [AIE_admin](https://github.com/EntySquare/AIE_admin) | [EntySquare](https://github.com/EntySquare) | Vue | 2025-07-03 |
 
 浏览全部：[EntySquare repositories](https://github.com/orgs/EntySquare/repositories) · [win-studio repositories](https://github.com/orgs/win-studio/repositories)
 
